@@ -1,4 +1,4 @@
 [submodule "codemirror"]
-  path   = src/editor/libs/codemirror
-  url    = https://github.com/notepadqq/CodeMirror.git
-  branch = master
+	path   = src/editor/libs/codemirror
+	url    = https://github.com/notepadqq/CodeMirror.git
+	branch = master
