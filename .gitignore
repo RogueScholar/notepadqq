@@ -12,6 +12,22 @@ Thumbs.db
 
 /Makefile
 /src/ui/Makefile
+/src/ui/libs/qtpromise/_book
+/src/ui/libs/qtpromise/dist
+/src/ui/libs/qtpromise/node_modules
+/src/ui/libs/qtpromise/*.gcno
+/src/ui/libs/qtpromise/*.gcda
+/src/ui/libs/qtpromise/*.moc
+/src/ui/libs/qtpromise/*.o
+/src/ui/libs/qtpromise/*.obj
+/src/ui/libs/qtpromise/*.exe
+/src/ui/libs/qtpromise/*.user
+/src/ui/libs/qtpromise/Makefile*
+/src/ui/libs/qtpromise/moc_*.cpp
+/src/ui/libs/qtpromise/moc_*.h
+/src/ui/libs/qtpromise/coverage.info
+/src/ui/libs/qtpromise/package-lock.json
+/src/ui/libs/qtpromise/target_wrapper.bat
 build-notepadqq-Desktop*
 
 /out
@@ -21,5 +37,11 @@ build-notepadqq-Desktop*
 
 /.qmake.stash
 /src/ui-tests/moc_predefs.h
+/src/ui-tests/*.moc
+/src/ui-tests/*.o
+/src/ui-tests/Makefile
+/src/ui-tests/ui-tests
 
 /src/translations/*.qm
+
+/doc/api/site
